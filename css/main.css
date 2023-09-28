@@ -29,6 +29,9 @@ header .li_2 {
     font-weight: 700;
     line-height: normal;
     list-style: none;
+     list-style: none;
+    display: flex;
+    justify-content: space-between;
     
 }
 header {
